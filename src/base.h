@@ -9,7 +9,7 @@
 
     #define TRUE 1
     #define FALSE 0
-
+    #define TEST -1
     #define HASH "#"
     #define EXIT "exit"
     #define CD "cd"
